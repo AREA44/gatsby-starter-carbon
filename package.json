@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-starte-carbon",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop -H 0.0.0.0",
+    "dev:clean": "gatsby clean && gatsby develop -H 0.0.0.0",
+    "build": "gatsby build",
+    "build:clean": "yarn clean && gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "publish": "gatsby build --prefix-paths"
+  },
+  "dependencies": {
+    "gatsby": "^3.3.1",
+    "gatsby-theme-carbon": "^2.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
