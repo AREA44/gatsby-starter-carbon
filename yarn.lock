@@ -6966,7 +6966,7 @@ gatsby-telemetry@^2.14.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-carbon@^2.3.0:
+gatsby-theme-carbon@2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/gatsby-theme-carbon/-/gatsby-theme-carbon-2.3.0.tgz#ac6ab9549d237492c0326093252a8ba5ebc9fdea"
   integrity sha512-u9rZdkVdJazllm3CbupT92netNIdNPILSiTC6TM2Kdw7RQo58ev5l6J7X2AHymfmBmhCDEj/U2lXoHyh49eOxw==
@@ -7037,7 +7037,7 @@ gatsby-worker@^0.5.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^3.3.1:
+gatsby@3.14.6:
   version "3.14.6"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.14.6.tgz#b05769f27ccccaf90c7c5b483a7d11bf74f45101"
   integrity sha512-H9IOoqkyzu0gEDzLUcm7pGSgwJbR338z+fjp4NsLlE4DkkA2T4H6nWRXLYoDwtNC+X2wfWSrwX8ui2wosAmQOQ==
@@ -11822,7 +11822,7 @@ react-dev-utils@^11.0.3:
     strip-ansi "6.0.0"
     text-table "0.2.0"
 
-react-dom@^17.0.2:
+react-dom@17.0.2:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-17.0.2.tgz#ecffb6845e3ad8dbfcdc498f0d0a939736502c23"
   integrity sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA==
@@ -11911,7 +11911,7 @@ react-use@^15.3.4:
     ts-easing "^0.2.0"
     tslib "^2.0.0"
 
-react@^17.0.2:
+react@17.0.2:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react/-/react-17.0.2.tgz#d0b5cc516d29eb3eee383f75b62864cfb6800037"
   integrity sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA==
