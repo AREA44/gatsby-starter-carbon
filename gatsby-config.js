@@ -9,9 +9,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Gatsby Starter Carbon',
+        name: 'Gatsby Starter Carbon by AREA44',
         icon: 'src/images/favicon.svg',
-        short_name: 'Gatsby Theme Carbon',
+        short_name: 'Gatsby Starter Carbon',
         start_url: '/',
         display: 'browser',
       },
@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: 'gatsby-theme-carbon',
       options: {
-        navigationStyle: 'header',
+        withWebp: true,
       },
     },
   ],
