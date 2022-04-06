@@ -4,7 +4,7 @@ module.exports = {
     description: 'This is a starter-kit (boilerplate) with a dependancy on the carbon design system',
     keywords: 'gatsby, theme, carbon, IBM',
   },
-  pathPrefix: `/gatsby-start-carbon`,
+  pathPrefix: `/gatsby-starter-carbon`,
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
