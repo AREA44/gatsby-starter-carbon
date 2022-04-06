@@ -21,10 +21,10 @@ jobs:
           node-version: "16.x"
 
       - name: Install dependencies
-        run: npm install
+        run: yarn install
 
       - name: Run Gatsby
-        run: npm run build
+        run: yarn run publish
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
